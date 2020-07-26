@@ -52,7 +52,7 @@
   
 - ⭐⭐⭐ OSI 7 Layer (`응-표-세-전-네-데-물`)
   - 응용 계층(Application Layer) 
-    - 사용자와 네트워크 간 응용서비스 견결, 데이터 생성
+    - 사용자와 네트워크 간 응용서비스 결, 데이터 생성
     - HTTP, FTP
     - 전송단위 : 데이터
   - 표현 계층(Presentation Layer)
