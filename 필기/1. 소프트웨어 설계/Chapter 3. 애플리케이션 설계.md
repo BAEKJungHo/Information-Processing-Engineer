@@ -167,9 +167,9 @@
 
 - 디자인 패턴 유형
   - 목적 (`생-구-행`)
-    - 생성
-    - 구조
-    - 행위
+    - 생성 : Factory Method, Singleton
+    - 구조 : Facade, Proxy
+    - 행위 : Template, Command, Observer
   - 범위
     - 클래스
     - 객체
