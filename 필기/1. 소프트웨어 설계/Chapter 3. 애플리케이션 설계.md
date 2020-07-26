@@ -133,7 +133,7 @@
   - 상속
   - 다형성
   - 추상화
-  - 정보은닉
+  - 정보은닉 : 고려되지 않은 영향(Side-Effect)들을 최소화.
   
 - 객체지향 설계 원칙 (`SOLID`)
   - 단일 책임의 원칙(Single Responsibility Principle)
